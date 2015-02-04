@@ -1,4 +1,4 @@
-# oracle-eclipse
+# oracle-eclipse-ee
 Dockerized oracle instance, running by oracle java
 
 Contains:
