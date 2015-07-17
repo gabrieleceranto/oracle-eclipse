@@ -21,4 +21,4 @@ Just run
     
 ## Eclipse doesn't start?
 Probably you have some X11 socket permission issue.
-Try with @xhost +@ to enable to all users and restart container.
+Try with `xhost +` to enable to all users and restart container.
