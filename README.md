@@ -18,3 +18,7 @@ Just run
     -v [type here your workspace path]:/workspace \
     -v [type here your m2 cache path]:/home/eclipse/.m2 \
     gceranto/oracle-eclipse-ee</pre>
+    
+## Eclipse doesn't start?
+Probably you have some X11 socket permission issue.
+Try with @xhost +@ to enable to all users and restart container.
